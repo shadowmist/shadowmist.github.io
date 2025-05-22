@@ -7,5 +7,4 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-# About me
-Test content
+This site is about both stuff I've learned recently and thing's I routinely see people get wrong in their environments.
