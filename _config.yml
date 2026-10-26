@@ -19,11 +19,11 @@ title: Shadowmist's blog # the main title
 tagline: Adventures in infosec # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog that I never got round to using
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://shadowmist.github.io"
 
 github:
   username: shadowmist # change to your GitHub username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Shadowmist
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
